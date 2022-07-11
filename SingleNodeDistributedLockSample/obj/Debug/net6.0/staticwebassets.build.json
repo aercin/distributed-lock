@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/2q1fO5Kd822SwgEd1WwpPP3cJjkWRjHoz8NCk1Ghfk=",
+  "Source": "SingleNodeDistributedLockSample",
+  "BasePath": "_content/SingleNodeDistributedLockSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
